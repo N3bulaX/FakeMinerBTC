@@ -1,0 +1,2 @@
+# FakeMinerBTC
+proyecto etico
